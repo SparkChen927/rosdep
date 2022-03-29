@@ -10,7 +10,7 @@
 
 When `sudo rosdep init`
 
-*Terminal* may say thay 
+*Terminal* may say:
 
 ***can not connect to `https://raw.githubusercontent.com/...`***
 
