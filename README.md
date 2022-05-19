@@ -2,7 +2,7 @@
 
 ## Install
 
-`sudo apt install python3-rosdep2`
+`sudo apt install python3-rosdep` or other versions
 
 
 
